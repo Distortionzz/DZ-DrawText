@@ -9,7 +9,7 @@ Options:
 2. Change the text font of the text
 ```
 
-•Instruction 
+• Instruction 
 ```
 1. Download the file
 2. Place "DZ-Drawtext" in your script folder
